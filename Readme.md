@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 https://github.com/Valtor3921/2333987-sedona-2
 * Студент: [Александр Габелко](https://up.htmlacademy.ru/htmlcss-individual/2/user/2333987).
-* Наставник: `Андрей Грачев`(https://github.com/andreysgra).
-
+* Наставник: [Андрей Грачев](https://github.com/andreysgra).
+* Сайт: [Мой сайт Седона](https://valtor3921.github.io/2333987-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
