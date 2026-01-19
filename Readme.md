@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александр Габелко](https://up.htmlacademy.ru/htmlcss-individual/2/user/2333987).
-* Наставник: `Неизвестно`.
+* Наставник: `Андрей Грачев`(https://github.com/andreysgra).
 
 ---
 
