@@ -14,18 +14,6 @@
   font-display: swap;
 }
 
-.visually-hidden {
-  position: absolute;
-  clip-path: inset(50%);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  border: 0;
-  overflow: hidden;
-  white-space: nowrap;
-}
-
 html,
 body {
   height: 100%;
@@ -42,6 +30,18 @@ body {
   color: #333333;
   background-color: #f2f2f2;
   text-align: center;
+}
+
+.visually-hidden {
+  position: absolute;
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 .page-wrapper {
@@ -88,8 +88,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
-/* Хедер */
 
 .navigation {
   display: flex;
@@ -218,8 +216,6 @@ body {
   fill: #817974;
 }
 
-/* Главная страница */
-
 .page-index {
   flex-grow: 1;
 }
@@ -260,8 +256,6 @@ body {
   line-height: 26px;
   margin-top: 0;
 }
-
-/* Преимущества */
 
 .advantages-list {
   display: grid;
@@ -410,15 +404,11 @@ body {
   padding-bottom: 64px;
 }
 
-/* Поиск гостиницы в Седоне */
-
 .modal-open-button {
   width: 376px;
   padding-left: 50px;
   padding-right: 50px;
 }
-
-/* Подписка */
 
 .subscribe {
   background-color: #3a5068;
@@ -525,8 +515,6 @@ body {
   padding-left: 50px;
 }
 
-/* Футер */
-
 .page-footer {
   display: flex;
   justify-content: space-between;
@@ -619,8 +607,6 @@ body {
   fill: rgba(117, 97, 87, 0.3);
 }
 
-/* Каталог фильтры */
-
 .catalog {
   background-image: url("../images/filters_background.jpg");
   background-color: #8b5547;
@@ -685,8 +671,6 @@ body {
   width: 7px;
   height: 10px;
 }
-
-/* Фильтры */
 
 .catalog-filters {
   display: flex;
@@ -945,8 +929,6 @@ body {
   border: none;
 }
 
-/* Сортировка */
-
 .sort-products {
   display: flex;
   justify-content: space-between;
@@ -1053,8 +1035,6 @@ body {
 .view-button-current {
   border: 2px solid rgba(0, 0, 0);
 }
-
-/* Каталог гостиницы */
 
 .select-control {
   font-family: inherit;
@@ -1196,8 +1176,6 @@ body {
   background-size: contain;
 }
 
-/* Пагинация */
-
 .pagination {
   display: flex;
   flex-wrap: wrap;
@@ -1314,8 +1292,6 @@ body {
   background-color: #7db54f;
   color: rgba(255, 255, 255, 0.3);
 }
-
-/* Модальное окно */
 
 .modal-container {
   position: fixed;
