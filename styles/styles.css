@@ -730,7 +730,7 @@ body {
   font-size: 18px;
   gap: 16px;
   word-wrap: break-word;
-  line-height: 20px;
+  line-height: 23px;
 }
 
 .control-input[type="checkbox"]:checked + .control-mark {
